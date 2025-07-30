@@ -1,4 +1,5 @@
 # Indian Wedding Data Cleaning & Analysis
+# DAY 1
 
 ## Key Steps
 
