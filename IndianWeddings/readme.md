@@ -189,7 +189,7 @@ Based on the analysis, you can discover:
 
 - **Sample Size**: 50 weddings with 7,000+ expense records
 - **Geographic Coverage**: All major Indian regions and city tiers
-- **Time Period**: 2023 data
+- **Time Period**: 2000-2025 data
 - **Currency**: Indian Rupees (₹)
 - **Data Quality**: Cleaned and validated for analysis
 
